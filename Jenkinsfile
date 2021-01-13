@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage(' Paso uno')  {
             steps {
-                echo 'No Hace Nada por ahora si'
+                echo 'No Hace Nada'
             }
         }
 
